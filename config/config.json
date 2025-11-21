@@ -1,0 +1,27 @@
+{
+    "bot": {
+        "name": "AI Discord Bot",
+        "version": "2.0.0",
+        "prefix": "!",
+        "admin_ids": [
+            1003378222400020510
+        ],
+        "support_server": "",
+        "owner_server_id": null
+    },
+    "settings": {
+        "max_message_length": 2000,
+        "default_model": "minimax/minimax-m2:free",
+        "enable_dm": true,
+        "enable_hybrid_commands": true,
+        "auto_update_stats": true,
+        "dedicated_channel_id": 1405639420962537525
+    },
+    "performance": {
+        "max_concurrent_requests": 5,
+        "request_timeout": 30,
+        "cache_responses": true,
+        "cleanup_interval": 300
+    },
+    "log_channel": 1433779909708480666
+}

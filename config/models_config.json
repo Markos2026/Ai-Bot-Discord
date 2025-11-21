@@ -1,0 +1,26 @@
+{
+    "tngtech/deepseek-r1t2-chimera:free": {
+        "display_name": "TNG: DeepSeek R1T2 Chimera",
+        "type": "default",
+        "api_key": "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",
+        "usage_count": 0,
+        "enabled": true,
+        "description": "Advanced reasoning model with hybrid architecture"
+    },
+    "minimax/minimax-m2:free": {
+        "display_name": "MiniMax: MiniMax M2",
+        "type": "default",
+        "api_key": "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",
+        "usage_count": 0,
+        "enabled": true,
+        "description": "High-performance multilingual model"
+    },
+    "z-ai/glm-4.5-air:free": {
+        "display_name": "GLM 4.5",
+        "type": "custom",
+        "api_key": "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",
+        "usage_count": 0,
+        "enabled": true,
+        "description": "GLM 4.5 Air By ELMINYAWE"
+    }
+}
